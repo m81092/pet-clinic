@@ -1,6 +1,6 @@
-package petclinic.model;
+package com.udemy.petclinic.model;
 
-public class Person {
+public class Person extends BaseEntity {
   
   private String firstName;
   private String lastName;
